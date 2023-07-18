@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in Mobile application development.
-- 🌱 I’m currently learning MEAN stack development and .Net
+- 👀 I’m interested in Mobile and Web application development.
+- 🌱 I’m currently working on Angular-asp.net webapi projects.
 - 💞️ I’m looking to collaborate on Angular, .net core and .net maui projects.
 - 📫 you can reach me via email Neneremadu@yahoo.com
 
